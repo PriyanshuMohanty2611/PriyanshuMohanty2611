@@ -39,8 +39,8 @@ Deep learning pipeline using the **Carvana dataset** to perform precise image ma
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-id)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:priyanshumohanty2611@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/priyanshu-mohanty-b39087324/)
+[![Email](https://mail.google.com/mail/u/0/#inbox)
 
 ---
 
