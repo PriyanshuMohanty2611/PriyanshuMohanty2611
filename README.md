@@ -1,5 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header" width="100%"/>
+  
+  <br/>
+  <img src="./II9.jpg" alt="Priyanshu Mohanty" width="150" height="150" style="border-radius: 50%; border: 3px solid #00c2cb; box-shadow: 0px 0px 20px rgba(0,255,255,0.2);">
+  <br/><br/>
+
   <h1>🌙 Hi, I'm Priyanshu Mohanty</h1>
   <h3>AI/ML Engineer 🚀 | IoT Systems Developer | Full Stack Innovator</h3>
   <p><i>"Turning raw data into intelligent decisions and hardware into smart systems."</i></p>
@@ -97,10 +102,23 @@
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuMohanty2611&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuMohanty2611&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <a href="https://github.com/PriyanshuMohanty2611">
+    <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuMohanty2611&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117" alt="Priyanshu's GitHub Stats" />
+  </a>
+  
+  <br/>
+
+  <a href="https://github.com/PriyanshuMohanty2611">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuMohanty2611&theme=react&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/PriyanshuMohanty2611">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuMohanty2611&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+  </a>
 </div>
 
 <br/>
