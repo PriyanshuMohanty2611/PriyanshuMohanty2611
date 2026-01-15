@@ -6,21 +6,27 @@ I specialize in bridging the gap between hardware and intelligence, building sys
 
 ## 🔭 Projects Showcase
 
-**AIML Face Detection System** 👁️  
-Advanced facial recognition system developed during training at CTTC BBSR. Uses computer vision to detect and verify identities in real-time.  
-🔗 [Link to Repository](#)
+## 🔭 Projects Showcase
 
-**Patient Management API** 🏥  
-High-performance backend built with **FastAPI** & **Pydantic**. Manages patient records, appointments, and medical history with strict data validation.  
-🔗 [Link to Repository](#)
+**Live Tracking Analysis** 📍  
+Real-time object detection and path tracking system using Computer Vision. Monitors movement patterns and provides analytics.  
+[🔗](https://github.com/PriyanshuMohanty2611/Live-Tracking-Analysis)
 
-**IoT Sensor Dashboard** 📡  
-Real-time environmental monitoring system using **ESP32**, **MQ135**, and **DHT11** sensors. Visualizes air quality and temperature data on a cloud dashboard.  
-🔗 [Link to Repository](#)
+**Blood Bank Management System** 🩸  
+A centralized management platform for tracking blood inventory, donor details, and hospital requests.  
+[🔗](https://github.com/PriyanshuMohanty2611/Blood-Bank-Management-System)
 
-**Image Segmentation with PyTorch** 🖼️  
-Deep learning pipeline using the **Carvana dataset** to perform precise image masking and background removal using semantic segmentation.  
-🔗 [Link to Repository](#)
+**Medical Chatbot** 🤖  
+AI-powered virtual health assistant capable of understanding symptoms and providing preliminary medical information.  
+[🔗](https://github.com/PriyanshuMohanty2611/Medical-Chatbot)
+
+**Smart Shell** 🐚  
+A custom command-line interface (CLI) tool designed to automate system tasks and streamline developer workflows.  
+[🔗](https://github.com/PriyanshuMohanty2611/Smart_Shell)
+
+**Smart Scanner** 📱  
+Intelligent scanning application utilizing OCR to digitize documents or identify products from images instantly.  
+[🔗](https://github.com/PriyanshuMohanty2611/Smart_Scanner)
 
 ## 🧠 Skills & Tools
 
