@@ -37,15 +37,10 @@ Intelligent scanning application utilizing OCR to digitize documents or identify
 | **Web & Backend** | FastAPI, Pydantic, REST APIs |
 | **Tools** | Git, GitHub, VS Code, Jupyter |
 
-## 📊 GitHub Stats
-
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuMohanty2611&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuMohanty2611&layout=compact&theme=radical)
-
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/priyanshu-mohanty-b39087324/)
-[![Email](https://mail.google.com/mail/u/0/#inbox)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-mohanty-b39087324/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:priyanshumohanty2611@gmail.com)
 
 ---
 
