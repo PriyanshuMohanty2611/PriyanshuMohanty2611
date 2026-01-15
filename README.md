@@ -4,7 +4,6 @@
 
 I specialize in bridging the gap between hardware and intelligence, building systems that sense, analyze, and act. From embedded IoT sensors to Deep Learning segmentation models, I turn data into decisions.
 
-## 🔭 Projects Showcase
 
 ## 🔭 Projects Showcase
 
